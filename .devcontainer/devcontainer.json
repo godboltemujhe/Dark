@@ -2,7 +2,7 @@
     "name": "My Codespace",
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
     "postStartCommand": "python /workspaces/Dark/main.py",
-    "customizations": {
+    "customizationscustomizationscustomizationscustomizationscustomizationscustomizationscustomizationscustomizations": {
         "vscode": {
             "settings": {
                 "python.pythonPath": "/usr/local/bin/python"
